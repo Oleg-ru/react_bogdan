@@ -1,0 +1,10 @@
+.app {
+  text-align: center;
+}
+
+.person_main-container {
+  margin: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}

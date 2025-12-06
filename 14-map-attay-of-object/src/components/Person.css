@@ -1,0 +1,25 @@
+.person_container {
+    width: 225px;
+    padding: 0.5rem;
+    border: 2px solid green;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(255, 255, 255, 35%);
+    background-color: teal;
+}
+
+.person_head {
+    margin-bottom: 10px;
+    padding: 5px;
+    border-radius: 3px;
+    background-color: cadetblue;
+}
+
+.person_head__naming {
+}
+
+.person_head__email {
+}
+
+.person_img {
+    border-radius: 3px;
+}
